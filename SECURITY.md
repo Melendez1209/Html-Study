@@ -7,7 +7,6 @@ When the development tools are advanced enough or your development ability allow
 
 ## Supported Versions
 
-
 Please update the version according to the following method of merging documents. This warehouse is casual and messy. The numerically named version is obviously not suitable for this warehouse.
 
 ## Reporting a Vulnerability or Merge Files
@@ -19,4 +18,8 @@ If you have done any of the above operations, please leave your email and let me
 After seeing your pull request or new branch, I will contact you immediately and merge the branches.
 
 If you want to get updates in time, GitHub official will remind you on your home page.
+
+## Disclaimers
+Any content in this warehouse is strictly prohibited from being used for illegal activities in any form. Including but not limited to * * *.
+
 That's all,Bye.😉😉😉
